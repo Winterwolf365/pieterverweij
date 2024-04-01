@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block content %}
+<picture>
+	<source srcset="{{ get_url(path='404.png') }}" media="(prefers-reduced-motion: reduce)">
+	</source>
+	<img id="not-found" class="pixels transparent no-hover" srcset="{{ get_url(path='404.gif') }}">
+</picture>
+
+<h1>Pagina niet gevonden</h1>
+
+<p>De opgevraagde pagina kon niet gevonden worden. Als je vindt dat dit niet normaal is, kunt je een probleem melden per
+	email.</p>
+
+<p class="dialog-buttons">
+	<a onclick="window.history.go(-1)" class="inline-button">Ga Terug</a>
+	<a href="{{ config.extra.issues_url }}">Meld een probeleem</a>
+</p>
+{% endblock content %}
