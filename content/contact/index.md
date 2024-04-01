@@ -19,9 +19,8 @@ Wist je dat het allereerste bericht dat ooit over het internet werd verzonden he
 
 Wil jij mij nu ook een bericht over het internet sturen? Dat kan! Je kunt me bereiken via de volgende e-mailadressen:
 
-- [me@pieterverweij.nl](mailto:me@pieterverweij.nl) Om een leuk gesprek aan te gaan, of meer te weten te komen!
-- [dev@pieterverweij.nl](mailto:dev@pieterverweij.nl) Hulp nodig voor iets rondom IT of Software? Dan ik help je graag!
-- [website@pieterverweij.nl](mailto:website@pieterverweij.nl) Als je feedback over deze website hebt, laat het weten!
+- [me@pieterverweij.nl](mailto:me@pieterverweij.nl) Als je feedback over deze website of wat vragen hebt, dan hoor ik het graag!
+- [dev@pieterverweij.nl](mailto:dev@pieterverweij.nl) Heb je iets nodig rondom IT of Software? Dan ik help je graag!
 - [admin@pieterverweij.nl](mailto:admin@pieterverweij.nl) Voor andre dingen, zoals dit domein!
 
 Ook kun je mij een berichtje op [linkedin](https://www.linkedin.com/in/pieter-verweij-43589625a/) sturen.
