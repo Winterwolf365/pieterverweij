@@ -1,6 +1,6 @@
 title = "Pieter Verweij"
 base_url = "https://pieterverweij.nl/"
-description = "My online litte space."
+description = "Mijn eigen online plaatsje."
 
 compile_sass = true
 minify_html = true
